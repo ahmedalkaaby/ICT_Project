@@ -26,7 +26,7 @@ module.exports = {
         xxl: '3rem',
       },
       spacing: {
-        '35': '9rem',
+        '25': '7rem',
         '100': '30rem',
       },
       colors: {

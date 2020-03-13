@@ -6,7 +6,7 @@ const Footer = () => {
         id="footer"
         className="flex flex-col md:flex-row w-full h-auot md:h-64 text-white text-sm lg:text-base xl:text-xl py-10 m-auto items-center md:justify-around bg-blue-900"
       >
-        <div className="w-full md:w-4/12 flex flex-col md:flex-row md:items-center  ml-10 md:ml-4 md:justify-start">
+        <div className="w-full md:w-4/12 flex flex-col md:flex-row md:items-center  ml-20 md:ml-4 md:justify-start">
           <div className="w-1/3">
             <img className="w-3/4 mr-5" src="/imgs/network.png" />
           </div>
@@ -16,7 +16,7 @@ const Footer = () => {
             <li>IRAQ - BASRA - B 103</li>
           </ul>
         </div>
-        <div className="flex w-full md:w-4/12 items-center md:justify-center">
+        <div className="flex w-full md:w-4/12 items-center ml-10 md:ml-0 md:justify-center">
           <ul className="flex flex-col m-5 cursor-pointer">
             <Link
               to="home"
@@ -65,7 +65,7 @@ const Footer = () => {
             </Link>
           </ul>
         </div>
-        <div className="w-full md:w-4/12 md:mr-4 ml-10 md:ml-0 md:justify-end">
+        <div className="w-full md:w-4/12 md:mr-4 ml-20 md:ml-0 md:justify-end">
           <img
             className="w-3/4 h-auto"
             src="http://getdrawings.com/vectors/spotify-logo-vector-6.png"

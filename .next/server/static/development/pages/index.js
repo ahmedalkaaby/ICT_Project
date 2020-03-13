@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-scroll */ "react-scroll");
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "D:\\singlePageProject\\components\\Footer.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Footer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -128,7 +128,7 @@ const Footer = () => {
     },
     __self: undefined
   }, __jsx("div", {
-    className: "w-full md:w-4/12 flex flex-col md:flex-row md:items-center  ml-10 md:ml-4 md:justify-start",
+    className: "w-full md:w-4/12 flex flex-col md:flex-row md:items-center  ml-20 md:ml-4 md:justify-start",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
@@ -174,7 +174,7 @@ const Footer = () => {
     },
     __self: undefined
   }, "IRAQ - BASRA - B 103"))), __jsx("div", {
-    className: "flex w-full md:w-4/12 items-center md:justify-center",
+    className: "flex w-full md:w-4/12 items-center ml-10 md:ml-0 md:justify-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -249,7 +249,7 @@ const Footer = () => {
     },
     __self: undefined
   }, "Contact Us"))), __jsx("div", {
-    className: "w-full md:w-4/12 md:mr-4 ml-10 md:ml-0 md:justify-end",
+    className: "w-full md:w-4/12 md:mr-4 ml-20 md:ml-0 md:justify-end",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 68
@@ -297,7 +297,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-scroll */ "react-scroll");
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _buttonMenu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./buttonMenu */ "./components/buttonMenu.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Header.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -368,7 +368,7 @@ const Header = props => {
     },
     __self: undefined
   }, __jsx("div", {
-    className: "cursor-pointer flex items-center justify-center h-35 w-35  bg-blue-900 border border-black rounded-full shadow-md",
+    className: "cursor-pointer flex items-center justify-center h-25 w-25  bg-blue-900 border border-black rounded-full shadow-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
@@ -551,7 +551,7 @@ const MobileMenu = props => {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\ICT.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\ICT.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -612,7 +612,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_main_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../styles/main.css */ "./styles/main.css");
 /* harmony import */ var _styles_main_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_styles_main_css__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _buttonMenu__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./buttonMenu */ "./components/buttonMenu.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Layout.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -725,7 +725,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _picWtext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./picWtext */ "./components/picWtext.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Partners.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Partners.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -824,7 +824,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _picWtext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./picWtext */ "./components/picWtext.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Services.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Services.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -901,7 +901,7 @@ const Services = () => {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\about.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\about.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1032,7 +1032,7 @@ const About = () => {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\buttonMenu.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\buttonMenu.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1072,7 +1072,7 @@ const ButtonMenu = props => {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\picWtext.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\picWtext.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1152,7 +1152,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.js");
-var _jsxFileName = "D:\\singlePageProject\\pages\\index.js";
+var _jsxFileName = "D:\\ICT_Project\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1186,7 +1186,7 @@ function Index() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\singlePageProject\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! D:\ICT_Project\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

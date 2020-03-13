@@ -13,7 +13,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-scroll */ "./node_modules/react-scroll/modules/index.js");
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "D:\\singlePageProject\\components\\Footer.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Footer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -35,7 +35,7 @@ var Footer = function Footer() {
     },
     __self: this
   }, __jsx("div", {
-    className: "w-full md:w-4/12 flex flex-col md:flex-row md:items-center  ml-10 md:ml-4 md:justify-start",
+    className: "w-full md:w-4/12 flex flex-col md:flex-row md:items-center  ml-20 md:ml-4 md:justify-start",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
@@ -81,7 +81,7 @@ var Footer = function Footer() {
     },
     __self: this
   }, "IRAQ - BASRA - B 103"))), __jsx("div", {
-    className: "flex w-full md:w-4/12 items-center md:justify-center",
+    className: "flex w-full md:w-4/12 items-center ml-10 md:ml-0 md:justify-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -156,7 +156,7 @@ var Footer = function Footer() {
     },
     __self: this
   }, "Contact Us"))), __jsx("div", {
-    className: "w-full md:w-4/12 md:mr-4 ml-10 md:ml-0 md:justify-end",
+    className: "w-full md:w-4/12 md:mr-4 ml-20 md:ml-0 md:justify-end",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 68
@@ -204,7 +204,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-scroll */ "./node_modules/react-scroll/modules/index.js");
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _buttonMenu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./buttonMenu */ "./components/buttonMenu.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Header.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -275,7 +275,7 @@ var Header = function Header(props) {
     },
     __self: this
   }, __jsx("div", {
-    className: "cursor-pointer flex items-center justify-center h-35 w-35  bg-blue-900 border border-black rounded-full shadow-md",
+    className: "cursor-pointer flex items-center justify-center h-25 w-25  bg-blue-900 border border-black rounded-full shadow-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
@@ -458,7 +458,7 @@ var MobileMenu = function MobileMenu(props) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\ICT.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\ICT.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -519,7 +519,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_main_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../styles/main.css */ "./styles/main.css");
 /* harmony import */ var _styles_main_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_styles_main_css__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _buttonMenu__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./buttonMenu */ "./components/buttonMenu.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Layout.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -631,7 +631,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _picWtext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./picWtext */ "./components/picWtext.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Partners.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Partners.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -730,7 +730,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _picWtext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./picWtext */ "./components/picWtext.js");
-var _jsxFileName = "D:\\singlePageProject\\components\\Services.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\Services.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -807,7 +807,7 @@ var Services = function Services() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\about.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\about.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -940,7 +940,7 @@ var About = function About() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\buttonMenu.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\buttonMenu.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -980,7 +980,7 @@ var ButtonMenu = function ButtonMenu(props) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\singlePageProject\\components\\picWtext.js";
+var _jsxFileName = "D:\\ICT_Project\\components\\picWtext.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1509,10 +1509,10 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CsinglePageProject%5Cpages%5Cindex.js!./":
-/*!********************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CsinglePageProject%5Cpages%5Cindex.js ***!
-  \********************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CICT_Project%5Cpages%5Cindex.js!./":
+/*!**************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CICT_Project%5Cpages%5Cindex.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4261,7 +4261,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.js");
-var _jsxFileName = "D:\\singlePageProject\\pages\\index.js";
+var _jsxFileName = "D:\\ICT_Project\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4278,13 +4278,13 @@ function Index() {
 /***/ }),
 
 /***/ 1:
-/*!************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CsinglePageProject%5Cpages%5Cindex.js ***!
-  \************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CICT_Project%5Cpages%5Cindex.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CsinglePageProject%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CsinglePageProject%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CICT_Project%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CICT_Project%5Cpages%5Cindex.js!./");
 
 
 /***/ }),

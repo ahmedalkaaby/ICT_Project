@@ -29,7 +29,7 @@ const Header = props => {
             </Link>
           </ul>
           <Link to="home" smooth={true}>
-            <div className="cursor-pointer flex items-center justify-center h-35 w-35  bg-blue-900 border border-black rounded-full shadow-md">
+            <div className="cursor-pointer flex items-center justify-center h-25 w-25  bg-blue-900 border border-black rounded-full shadow-md">
               <img className="w-3/4" src="/imgs/logoHeader.png" alt="logo" />
             </div>
           </Link>
