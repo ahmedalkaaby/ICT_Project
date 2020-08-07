@@ -1,2 +1,2 @@
 # ICT_Project
-this projec is done by Ahmed Atiyah
+this project is done by Ahmed Atiyah
